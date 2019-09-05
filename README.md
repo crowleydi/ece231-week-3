@@ -22,7 +22,7 @@ to search.
 
 In the file `binsearch.cpp` I also have two skeleton functions which you must implement. Just like with the
 linear search functions, one version you are given a `std::vector<int>` to search and the second function you
-are given the `begin` and `end` pointers. The structure of the two function will be nearly identical as there
+are given the `begin` and `end` pointers. The structure of the two functions will be nearly identical as there
 will only be very small changes needed to implement using pointers.
 
 ## The `main` program
